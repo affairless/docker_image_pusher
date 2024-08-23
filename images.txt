@@ -1,4 +1,1 @@
-alpine
-python
-kasmweb/nginx
---platform=linux/amd64 redis
+homeassistant/home-assistant
